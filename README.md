@@ -1,3 +1,3 @@
 #Today I Learn
 ---
-*click [here](https://github.com/Hojo-JJeunghee/TIL/blob/main/basic_git.md)
+*[git 기본](https://github.com/Hojo-JJeunghee/TIL/blob/main/basic_git.md)
