@@ -1,5 +1,6 @@
-#Github 처음코드
+#Git 
 ---
+
 1. *초기화*
 ```
 git init
@@ -24,7 +25,7 @@ git commit -m "first commit"
 
 5. Github repository랑 내 로컬 프로젝트랑 연결
 ```
-git remote add origin https:/github.com/Hojo-JJeunghee/~
+git remote add origin https:/github.com/SeungHee-PlumTree/~
 ```
 * github 에서 복사해서 붙이기
 
@@ -39,7 +40,6 @@ git remote -v
 git push -u origin master/main
 ```
 * master 자리에는 Branch 이름이 들어가면 됨. 
-
 
 
 #Github에 계속 업데이트 하는 법
