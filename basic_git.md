@@ -25,8 +25,9 @@ git commit -m "first commit"
 
 5. Github repository랑 내 로컬 프로젝트랑 연결
 ```
-git remote add origin https:/github.com/SeungHee-PlumTree/~
+git remote add origin https:/github.com/SeungHee-PlumTree
 ```
+
 * github 에서 복사해서 붙이기
 
 6. 잘 연결되었는지 확인(선택사항)
@@ -59,3 +60,9 @@ git commit -m ""
 git push origin main
 ```
 내 컴퓨터에 소스코드를 업데이트 하고 싶으면 **세개의 스텝**만 반복하면 됨
+
+4. 하지만 아기승히의 깃은
+```
+git pull origin main
+```
+push 안되면 함 해줘야된다..
